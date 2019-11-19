@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "multiple-select@github:huyviet/multiple-select",
+      "/var/www/staging.gocare.local/cc-web"
+    ]
+  ],
+  "_from": "huyviet/multiple-select",
+  "_id": "multiple-select@1.2.1",
+  "_inBundle": false,
+  "_inCache": true,
+  "_installable": true,
+  "_integrity": "sha1-urULy65r3bKgw4HcIpSfBVCbgvs=",
+  "_location": "/multiple-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/huyviet/multiple-select/master/package.json",
+      "gitUrl": "git://github.com/huyviet/multiple-select.git",
+      "httpsUrl": "git+https://github.com/huyviet/multiple-select.git",
+      "shortcut": "github:huyviet/multiple-select",
+      "ssh": "git@github.com:huyviet/multiple-select.git",
+      "sshUrl": "git+ssh://git@github.com/huyviet/multiple-select.git",
+      "type": "github"
+    },
+    "name": "multiple-select",
+    "raw": "multiple-select@github:huyviet/multiple-select",
+    "rawSpec": "github:huyviet/multiple-select",
+    "scope": null,
+    "spec": "github:huyviet/multiple-select",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/huyviet/multiple-select.git#419d5b3fce9d7d2170ff26ec61a7db2b0dc8e579",
+  "_shasum": "dc13c9a43a62541d58c7fc2de035dbd8db7449d6",
+  "_shrinkwrap": null,
+  "_spec": "multiple-select@github:huyviet/multiple-select",
+  "_where": "/var/www/staging.gocare.local/cc-web",
+  "author": {
+    "email": "wenzhixin2010@gmail.com",
+    "name": "zhixin wen",
+    "url": "http://wenzhixin.net.cn/"
+  },
+  "bugs": {
+    "url": "https://github.com/wenzhixin/multiple-select/issues"
+  },
+  "bundleDependencies": false,
+  "demo": "http://wenzhixin.net.cn/p/multiple-select/#examples",
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "deprecated": false,
+  "description": "Multiple select is a jQuery plugin to select multiple elements with checkboxes :).",
+  "devDependencies": {},
+  "docs": "http://wenzhixin.net.cn/p/multiple-select/#documentation",
+  "download": "https://github.com/wenzhixin/multiple-select/archive/master.zip",
+  "gitHead": "419d5b3fce9d7d2170ff26ec61a7db2b0dc8e579",
+  "homepage": "http://wenzhixin.net.cn/p/multiple-select/",
+  "keywords": [
+    "checkbox",
+    "multiple.choose",
+    "multiple.select",
+    "select.list"
+  ],
+  "license": "MIT",
+  "main": "multiple-select.js",
+  "name": "multiple-select",
+  "optionalDependencies": {},
+  "readme": "# Multiple Select\n\nMultiple select is a jQuery plugin to select multiple elements with checkboxes :).\n \n## jsFiddle examples\n\nhttps://github.com/wenzhixin/multiple-select/issues/255\n\n## Changelog\n\n[CHANGELOG](https://github.com/wenzhixin/multiple-select/blob/master/CHANGELOG.md)\n\n## LICENSE\n\n[The MIT License](https://github.com/wenzhixin/multiple-select/blob/master/LICENSE)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wenzhixin/multiple-select.git"
+  },
+  "title": "Multiple Select",
+  "version": "1.2.1"
+}
